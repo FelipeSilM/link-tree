@@ -35,10 +35,8 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
-
   shortcut
   background: color repeat position/size
-
   */
   background: var(--bg-url) no-repeat top center/cover;
 }
